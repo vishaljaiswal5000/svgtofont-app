@@ -1,0 +1,19 @@
+{
+  "emptyDist": true,
+  "css": true,
+  "fontName": "icon",
+  "log": true,
+  "outSVGReact": false,
+  "generateInfoData": true,
+  "svgicons2svgfont": {
+    "fontHeight": 1000,
+    "normalize": true
+  },
+  "website": {
+    "title": "SVG to fonts",
+    "meta": {
+      "description": "Converts SVG fonts to TTF/EOT/WOFF/WOFF2/SVG format.",
+      "keywords": "svgtofont,TTF,EOT,WOFF,WOFF2,SVG"
+    }
+  }
+}

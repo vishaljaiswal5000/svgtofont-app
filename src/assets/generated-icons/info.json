@@ -1,0 +1,44 @@
+{
+  "aperture": {
+    "encodedCode": "\\ea01",
+    "prefix": "icon",
+    "className": "icon-aperture",
+    "unicode": "&#59905;"
+  },
+  "facebook": {
+    "encodedCode": "\\ea02",
+    "prefix": "icon",
+    "className": "icon-facebook",
+    "unicode": "&#59906;"
+  },
+  "fast-forward": {
+    "encodedCode": "\\ea03",
+    "prefix": "icon",
+    "className": "icon-fast-forward",
+    "unicode": "&#59907;"
+  },
+  "instagram": {
+    "encodedCode": "\\ea04",
+    "prefix": "icon",
+    "className": "icon-instagram",
+    "unicode": "&#59908;"
+  },
+  "linkedin": {
+    "encodedCode": "\\ea05",
+    "prefix": "icon",
+    "className": "icon-linkedin",
+    "unicode": "&#59909;"
+  },
+  "mail": {
+    "encodedCode": "\\ea06",
+    "prefix": "icon",
+    "className": "icon-mail",
+    "unicode": "&#59910;"
+  },
+  "youtube": {
+    "encodedCode": "\\ea07",
+    "prefix": "icon",
+    "className": "icon-youtube",
+    "unicode": "&#59911;"
+  }
+}
