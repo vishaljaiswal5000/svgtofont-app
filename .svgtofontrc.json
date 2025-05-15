@@ -4,7 +4,7 @@
   "log": true,
   "outSVGReact": false,
   "generateInfoData": true,
-   "css": {
+  "css": {
     "cssPath": "./assets/generated-icons/",
     "include": "\\.(scss)$"
   },
