@@ -1,10 +1,13 @@
 {
   "emptyDist": true,
-  "css": true,
   "fontName": "icon",
   "log": true,
   "outSVGReact": false,
   "generateInfoData": true,
+   "css": {
+    "cssPath": "./assets/generated-icons/",
+    "include": "\\.(scss)$"
+  },
   "svgicons2svgfont": {
     "fontHeight": 1000,
     "normalize": true

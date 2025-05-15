@@ -1,15 +1,15 @@
 @font-face {
   font-family: "icon";
-  src: url('icon.eot?t=1743131087874'); /* IE9*/
-  src: url('icon.eot?t=1743131087874#iefix') format('embedded-opentype') /* IE6-IE8 */,
-  url('icon.woff2?t=1743131087874') format('woff2'),
-  url('icon.woff?t=1743131087874') format('woff'),
-  url('icon.ttf?t=1743131087874') format('truetype'),
-  url('icon.svg?t=1743131087874') format('svg');
+  src: url('./assets/generated-icons/icon.eot?t=1747268883136'); /* IE9*/
+  src: url('./assets/generated-icons/icon.eot?t=1747268883136#iefix') format('embedded-opentype') /* IE6-IE8 */,
+  url('./assets/generated-icons/icon.woff2?t=1747268883136') format('woff2'),
+  url('./assets/generated-icons/icon.woff?t=1747268883136') format('woff'),
+  url('./assets/generated-icons/icon.ttf?t=1747268883136') format('truetype'),
+  url('./assets/generated-icons/icon.svg?t=1747268883136') format('svg');
 }
 
 [class^="icon-"], [class*=" icon-"] {
-  font-family: 'icon' !important;
+  font-family: 'icon' !important;font-size: undefined;
   font-style:normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
