@@ -1,4 +1,4 @@
-@use './assets//generated-icons/icon.scss';
+@use './assets/generated-icons/icon.scss';
 
 #root {
   max-width: 1280px;
@@ -43,11 +43,10 @@
   color: #888;
 }
 
-
-.grid-box{
+.grid-box {
   display: flex;
   gap: 16px;
-  &__item{
+  &__item {
     background-color: #e8e8e8;
     width: 240px;
     height: 140px;
